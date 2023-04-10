@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @panjd123
-- 👀 I’m interested in everything because I know nothing
-- 🌱 I’m currently learning Docker
 - 📫 My email is 2021201626@ruc.edu.cn
 
 <!---
